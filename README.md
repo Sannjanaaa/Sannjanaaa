@@ -1,4 +1,10 @@
-<h1 align="center">Sanjana Ghorpade</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game" />
+</p>
+
+---
+
+<h1 align="center">Hi All👋 I'm Sanjana Ghorpade</h1>
 <p align="center">
   <strong>📊 Beginner Data Analyst | Aspiring Data Scientist | Data Enthusiast</strong>
 </p>
