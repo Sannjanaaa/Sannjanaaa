@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghorpadesanjana04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ghorpadesanjana04?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sannjanaaa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Sannjanaaa?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sannjanaaa?label=Followers&style=social" alt="followers" />
+  </a>
 </p>
 
 <p align="center">
@@ -39,8 +41,8 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghorpadesanjana04&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghorpadesanjana04&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sannjanaaa&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sannjanaaa&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
