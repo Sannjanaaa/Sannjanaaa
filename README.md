@@ -1,56 +1,46 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3o6ZtqFw2M1eTYz6tq/giphy.gif" width="150" />
-  Sanjana Ghorpade
-</h1>
+<h1 align="center">Sanjana Ghorpade</h1>
 <p align="center">
-  <strong>📊 Data Analyst | Aspiring Data Scientist | Data Enthusiast</strong>
+  <strong>📊 Beginner Data Analyst | Aspiring Data Scientist | Data Enthusiast</strong>
 </p>
 
----
-
-## 🎮 Fun Interactive Snake Game  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghorpadesanjana04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ghorpadesanjana04?label=Followers&style=social" alt="followers" />
+</p>
 
 <p align="center">
-  <a href="https://playsnake.io" target="_blank">
-    <img src="https://media.giphy.com/media/3o6ZtqFw2M1eTYz6tq/giphy.gif" alt="Snake Game" width="300" />
-  </a>
-  <br>
-  <strong>Click the image to play the Snake Game! 🎮</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Data+Analysis+%7C+Python+%7C+Beginner+Level;Learning+and+exploring+data+with+passion!" />
 </p>
 
 ---
 
 ## 💡 About Me  
-💼 I am a *Data Analyst* with a passion for turning data into actionable insights.  
-🔍 I enjoy analyzing data to help businesses make informed decisions.  
-📚 Currently learning more about *Machine Learning*, *Python for Data Science*, and *AI*.
+💼 I am a *Beginner Data Analyst* with a growing interest in *Data Science*.  
+🔍 I am learning to analyze data and provide insights that help drive data-based decisions.  
+📚 Currently, I'm focusing on *Python for Data Science*, exploring *Data Visualization*, and understanding the basics of *Machine Learning*.
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### 📊 *Data Analysis & Visualization*  
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white) 
-  ![Seaborn](https://img.shields.io/badge/Seaborn-9E8C80?style=flat&logo=seaborn&logoColor=white) 
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
-  ![Power BI](https://img.shields.io/badge/Power%20BI-1070CA?style=flat&logo=powerbi&logoColor=white)
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-9E8C80?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### 💾 *Data Storage & Management*  
-<p align="center">
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 *Data Science & Machine Learning*  
+### 🧠 *Machine Learning & Data Science*  
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📚 *Version Control & Collaboration*  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
 <p align="center">
-  ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+  <img src="https://github-readme-stats.vercel.app/api?username=ghorpadesanjana04&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghorpadesanjana04&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
@@ -65,5 +55,3 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
