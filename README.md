@@ -23,7 +23,7 @@
 ---
 
 ## 💡 About Me  
-💼 I am a *Beginner Data Analyst* with a growing interest in *Data Science*.  
+💼 I am a *Beginner Data Analyst* with a keen interest in *Data Science*.  
 🔍 I am learning to analyze data and provide insights that help drive data-based decisions.  
 📚 Currently, I'm focusing on *Python for Data Science*, exploring *Data Visualization*, and understanding the basics of *Machine Learning*.
 
